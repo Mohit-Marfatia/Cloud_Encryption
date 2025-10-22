@@ -92,17 +92,17 @@ if __name__ == "__main__":
     iv = manager.generate_iv()
     test_data = "Hello World"
 
-    print("\n ENCRYPTION")
+    print("\nENCRYPTION")
     encrypted = manager.encrypt_data(test_data, key)
     print(f"Ciphertext(base64): {encrypted['ciphertext']}")
     print(f"Original hash: {encrypted['original_hash']}")
     
-    print("\n DECRYPTION")
+    print("\nDECRYPTION")
     decrypted, verified = manager.decrypt_data(encrypted, key)
     print(f"Decrypted data: {decrypted}")
     print(f"Integrity verified: {verified}")
     
-    print("\n VERIFICATION")
+    print("\nVERIFICATION")
     if test_data == decrypted:
         print("Original data matches decrypted data")
     else:
