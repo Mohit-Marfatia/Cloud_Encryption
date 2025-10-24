@@ -1,0 +1,8 @@
+{
+    "ciphertext": "skFZ73fkWm0MKmIo6AFIjYEXlPOh5pjhpBadnAnlH4jpr6oba2q+OdPTbdEEkNFa9b8vWsfQLC90W471ZLWxutJLei3AanFlODC6u3mgTQT64Z5LJwi1z/IH7OlgmZL8sfaBgKxfJNfNOveJWpDMBDAv3LSo++Er9lY2OvZaHbs=",
+    "iv": "WvL1/09vnXq78+DYWk9lCA==",
+    "original_hash": "a2ad406219bc71151aacc88acea58623c8505682b8e0c187e745bb9a7caa2888",
+    "key_size": 256,
+    "original_filename": "sensitive_data.txt",
+    "original_size": 115
+}

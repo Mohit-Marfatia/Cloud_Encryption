@@ -1,6 +1,3 @@
-"""
-Local Uploader - Handles uploading encrypted files to local mock storage
-"""
 import os
 import json
 from datetime import datetime

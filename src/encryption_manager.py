@@ -97,8 +97,8 @@ class EncryptionManager:
         encrypted_data['original_filename'] = os.path.basename(file_path)
         encrypted_data['original_size'] = len(file_data)
 
-        with open("files/encryted_test_file", 'w') as f:
-            json.dump(encrypted_data, f, indent=4)
+        # with open("./files/encrypted_test_file", 'wb') as f:
+        #     json.dump(encrypted_data, f, indent=4)
 
         print("File encryption completed")
 
