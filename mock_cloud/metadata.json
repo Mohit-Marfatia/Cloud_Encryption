@@ -1,0 +1,16 @@
+{
+    "67d6d8c8-3f66-4846-ab97-c420c7d9356a": {
+        "original_filename": "sensitive_data.txt",
+        "encrypted_filename": "67d6d8c8-3f66-4846-ab97-c420c7d9356a.enc",
+        "upload_timestamp": "2025-10-25T12:31:24.447056",
+        "original_size": 115,
+        "original_hash": "a2ad406219bc71151aacc88acea58623c8505682b8e0c187e745bb9a7caa2888"
+    },
+    "aef49cdf-9448-4743-8e18-33be75442d99": {
+        "original_filename": "test_file.txt",
+        "encrypted_filename": "aef49cdf-9448-4743-8e18-33be75442d99.enc",
+        "upload_timestamp": "2025-10-25T12:33:06.662519",
+        "original_size": 20416,
+        "original_hash": "0ce56913ecabc955a727ff75b3fc455455e56dd89a596bdd5ee7c014ce9cc8bd"
+    }
+}

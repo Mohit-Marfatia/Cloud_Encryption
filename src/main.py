@@ -98,7 +98,7 @@ def demo():
 
     app = CloudEncryptionApp()
 
-    demo_dir = './demo_files'
+    demo_dir = '../demo_files'
     os.makedirs(demo_dir, exist_ok=True)
 
     demo_file = os.path.join(demo_dir, 'sensitive_data.txt')
