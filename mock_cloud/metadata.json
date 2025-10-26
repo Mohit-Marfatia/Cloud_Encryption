@@ -12,5 +12,12 @@
         "upload_timestamp": "2025-10-25T12:33:06.662519",
         "original_size": 20416,
         "original_hash": "0ce56913ecabc955a727ff75b3fc455455e56dd89a596bdd5ee7c014ce9cc8bd"
+    },
+    "39a68d01-2808-4f2e-b1bf-3b1aa954ba9c": {
+        "original_filename": "sensitive_data.txt",
+        "encrypted_filename": "39a68d01-2808-4f2e-b1bf-3b1aa954ba9c.enc",
+        "upload_timestamp": "2025-10-27T00:42:00.884430",
+        "original_size": 115,
+        "original_hash": "a2ad406219bc71151aacc88acea58623c8505682b8e0c187e745bb9a7caa2888"
     }
 }
